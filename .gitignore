@@ -1,0 +1,10 @@
+#.env
+mongodb.config
+config.js
+#node modules
+node_modules
+#package lock
+package-lock.json
+#note
+query_backup.txt
+userpass.txt
