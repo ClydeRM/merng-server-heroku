@@ -1,6 +1,5 @@
 #.env
 mongodb.config
-config.js
 #node modules
 node_modules
 #package lock
